@@ -1,0 +1,10 @@
+*.mp4
+videos
+*.class
+*.o
+*.log
+*.tmp
+*.lock
+*.thumbs.db
+*.idea
+
