@@ -2,7 +2,8 @@
 # My portfolio webstie: [www.mahdiharooni.ir](https://mahdiharooni.ir)
 
 
-![Static Badge](https://img.shields.io/badge/course_title-git_and%20_github-red?logo=github)
+![Static Badge](https://img.shields.io/badge/course_title-git_and20_github-red?logo=github)
+![Static Badge](https://img.shields.io/badge/course_title-git_and_github-pink?style=flat&labelColor=green&color=red)
 
 
 
