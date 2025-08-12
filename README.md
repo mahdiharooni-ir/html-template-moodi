@@ -5,6 +5,8 @@
 ![Static Badge](https://img.shields.io/badge/course_title-git_and20_github-red?logo=github)
 ![Static Badge](https://img.shields.io/badge/course_title-git_and_github-pink?style=flat&labelColor=green&color=red)
 
+![Static Badge](https://img.shields.io/badge/course_title-git_and_github-pink?style=flat&labelColor=green&color=red)
+
 
 
 ```
